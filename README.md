@@ -2,8 +2,6 @@
 
 A machine learning project to predict the delay between a train rake's **arrival** and the **start of its safety examination** in Indian Railways yards. This helps in optimizing yard operations, improving turnaround time, and enabling data-driven manpower planning.
 
-
-
 ## 📌 Problem Statement
 
 In Indian Railways, each train rake (group of wagons/coaches) must undergo a mandatory safety exam upon arrival. However, delays often occur between arrival and examination start due to:
