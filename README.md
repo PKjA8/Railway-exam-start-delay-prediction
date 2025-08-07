@@ -2,6 +2,7 @@
 
 A machine learning project to predict the delay between a train rake's **arrival** and the **start of its safety examination** in Indian Railways yards. This helps in optimizing yard operations, improving turnaround time, and enabling data-driven manpower planning.
 
+
 ## 📌 Problem Statement
 
 In Indian Railways, each train rake (group of wagons/coaches) must undergo a mandatory safety exam upon arrival. However, delays often occur between arrival and examination start due to:
@@ -12,7 +13,6 @@ In Indian Railways, each train rake (group of wagons/coaches) must undergo a man
 This delay is termed as **"Arrival to Exam Start Time" (`ar_to_ex_st`)**.
 
 
-
 ## 🎯 Project Objectives
 
 - Predict `ar_to_ex_st` delay using historical data and ML models.
@@ -20,7 +20,6 @@ This delay is termed as **"Arrival to Exam Start Time" (`ar_to_ex_st`)**.
 - Reduce idle time and optimize manpower deployment.
 - Support smarter, data-driven railway operations.
 
----
 
 ## 🧠 Methodology
 
@@ -51,7 +50,6 @@ This delay is termed as **"Arrival to Exam Start Time" (`ar_to_ex_st`)**.
 | CatBoost           | 84.51     | 0.4309   |
 | Stacking Regressor | 93.26     | 0.5126   |
 
----
 
 ## 📊 Key Insights from EDA
 
@@ -68,7 +66,6 @@ This delay is termed as **"Arrival to Exam Start Time" (`ar_to_ex_st`)**.
 - `XGBoost` · `LightGBM` · `CatBoost` · `Scikit-learn`
 - `Jupyter Notebook` · `VS Code`
 
----
 
 ## 🚀 Outcomes & Future Scope
 
@@ -83,7 +80,6 @@ This delay is termed as **"Arrival to Exam Start Time" (`ar_to_ex_st`)**.
 - Deploy as a **web/mobile dashboard** for yard supervisors.
 - Extend to predict: exam completion time, dispatch time, full cycle delay.
 
----
 
 ## 👥 Authors
 
@@ -92,13 +88,11 @@ This delay is termed as **"Arrival to Exam Start Time" (`ar_to_ex_st`)**.
 B.Tech – Artificial Intelligence & Data Science  
 Gati Shakti Vishwavidyalaya, Ministry of Railways, Vadodara
 
----
 
 ## 📄 License
 
 This project is part of an academic internship and is intended for educational and research purposes. For any use in production or integration with official railway systems, proper authorization from CRIS is required.
 
----
 
 ## 📬 Contact
 
