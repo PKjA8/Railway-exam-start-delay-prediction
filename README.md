@@ -97,6 +97,6 @@ This project is part of an academic internship and is intended for educational a
 ## 📬 Contact
 
 For queries, suggestions, or collaboration opportunities:
-📧 pradeep.kumar@xyz.edu | 📧 harphool.singh@xyz.edu  
+📧 pradeep.kumar@xyz.edu 
 📍 Gati Shakti Vishwavidyalaya, Vadodara, India
 
